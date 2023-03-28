@@ -1,37 +1,47 @@
-### Hi there 👋, my name is Violet
-I wanna be a developer.	
+#### Python Basics for Data Analysis
+### 파이썬 및 데이터 분석 기초 (온라인 학습) 2022.10.06 ~ 2022.10.18
+---
+#### 1. 파이썬 기초</br>
+1.1 파이썬 알아보기</br>
+1.2 숫자형 자료형</br>
+1.3 문자열 자료형</br>
+1.4 리스트 자료형</br>
+1.5 튜플 자료형</br>
+1.6 딕셔너리 자료형</br>
+1.7 집합 자료형</br>
+1.8 불 자료형</br>
+1.9 변수 다루기</br>
+1.10 조건문 IF문</br>
+1.11 반복문 WHILE문</br>
+1.12 반복문 FOR문</br>
+1.13 함수</br>
+1.14 클래스</br>
+1.15 예외처리</br>
+1.16 내장함수</br>
+1.17 라이브러리</br>
+1.18 수치 계산 라이브러리 Numpy 알아보기</br>
 
-- 🌱 I’m currently learning Machine Learning, AI, Computer Vision.	
-- 📫 How to reach me: bora2081@hotmail.com
-- Notion link: https://buttery-eggnog-d62.notion.site/Violet-4bde91e32ddc459aa847458dd221a26f <br/>
-
-<a href="https://buttery-eggnog-d62.notion.site/Violet-4bde91e32ddc459aa847458dd221a26f" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/violet417" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
-
-<br/>
-
-✏ **Task**
-
-<a href="https://github.com/dbtjr1103/mainpj"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
-
-<br/>
-
-📚 **Tech Stack**
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> 
-
-<br/>  
- 
-🛠 **Tool**
-
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
-<br/>
-  
-🏆 **Award**
-   
-**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61위, 동메달(Top 7%))
- 
-**ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1위, Private 1위)
- 
-**ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 23위, Private 35위)
+#### 2. 데이터분석</br>
+2.1 판다스 소개 및 데이터 불러오기</br>
+2.2 시리즈와 데이터프레임 이해하기</br>
+2.3 판다스 통계 함수 맛보기</br>
+2.4 시리즈와 데이터프레임 다루기</br>
+2.5 데이터를 저장하고 불러오는 방법</br>
+2.6 데이터 시각화가 필요한 이유</br>
+2.7 matplotlib 라이브러리를 활용해서 그래프 그리기</br>
+2.8 seaborn 라이브러리를 활용해서 그래프 그리기</br>
+2.9 pandas 라이브러리를 활용해서 그래프 그리기</br>
+2.10 여러 개의 데이터 프레임을 합치는 방법</br>
+2.11 스마트하게 데이터 프레임을 합치는 방법</br>
+2.12 누락값을 처리하는 방법</br>
+2.13 열에 있는 값을 행으로 내리는 방법</br>
+2.14 행에 있는 값을 열로 올리는 방법</br>
+2.15 데이터에 순위를 매기는 방법</br>
+2.16 상관분석</br>
+2.17 정규표현식</br>
+2.18 인터넷에 있는 데이터를 수집하는 방법</br>
+2.19 인터넷에 있는 표를 데이터프레임으로 바로 만드는 방법</br>
+2.20 인터넷 뉴스 기사 가져오는 방법</br>
+2.21 수집한 뉴스 기사로 빈도분석하고 워드클라우드 그리기</br>
+2.22 네트워크 반응을 이용해서 데이터 크롤링하기</br>
+2.18 인터넷에 있는 데이터를 수집하는 방법</br>
